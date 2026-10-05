@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "skills": {
+    "arcjet": {
+      "source": "arcjet/skills",
+      "sourceType": "github",
+      "skillPath": "arcjet/SKILL.md",
+      "computedHash": "79aa4d0a65a2413fc8148e3585b828d99c2aa8d57d1ff8aba311eb81dd2e4a2a"
+    },
+    "integrate-arcjet-guard-agent-framework-go": {
+      "source": "arcjet/skills",
+      "sourceType": "github",
+      "skillPath": "integrate-arcjet-guard-agent-framework-go/SKILL.md",
+      "computedHash": "566fcb7ca8d90f6b3af2fc80de0561bc87a189b03796d82a351942716edf7f3d"
+    },
+    "integrate-arcjet-guard-claude-agent-sdk-py": {
+      "source": "arcjet/skills",
+      "sourceType": "github",
+      "skillPath": "integrate-arcjet-guard-claude-agent-sdk-py/SKILL.md",
+      "computedHash": "77eec980c12c3c2407284610f69cc5ee1b1306f1810736d99c4a476bf02ae917"
+    },
+    "integrate-arcjet-guard-claude-managed-agents-py": {
+      "source": "arcjet/skills",
+      "sourceType": "github",
+      "skillPath": "integrate-arcjet-guard-claude-managed-agents-py/SKILL.md",
+      "computedHash": "575954a2f4c3da2bc94ae490d5c722f3e4e84cee2a3c98a5112a4941f00e33bb"
+    },
+    "integrate-arcjet-guard-cloudflare-think": {
+      "source": "arcjet/skills",
+      "sourceType": "github",
+      "skillPath": "integrate-arcjet-guard-cloudflare-think/SKILL.md",
+      "computedHash": "ce935d6e15ec0b3d6dcfa3270d10c6cb0b091a47226acc5277d723688930eb47"
+    },
+    "integrate-arcjet-guard-crewai": {
+      "source": "arcjet/skills",
+      "sourceType": "github",
+      "skillPath": "integrate-arcjet-guard-crewai/SKILL.md",
+      "computedHash": "c428c89dfa1ec9280b2a61cea26060959a60d842cad8c5abf45d3e35a4d94124"
+    },
+    "integrate-arcjet-guard-google-adk-py": {
+      "source": "arcjet/skills",
+      "sourceType": "github",
+      "skillPath": "integrate-arcjet-guard-google-adk-py/SKILL.md",
+      "computedHash": "f685fa7f6aeb162c512f04f71d4991ebaefe585ceb3acee865bf6b79440dd0d9"
+    },
+    "integrate-arcjet-guard-langchain-py": {
+      "source": "arcjet/skills",
+      "sourceType": "github",
+      "skillPath": "integrate-arcjet-guard-langchain-py/SKILL.md",
+      "computedHash": "60a497bf040c1f4d015cd3a2dc5a0c850e71e76c482802a57fc7ad6e05cba8b0"
+    },
+    "integrate-arcjet-guard-openai-agents-py": {
+      "source": "arcjet/skills",
+      "sourceType": "github",
+      "skillPath": "integrate-arcjet-guard-openai-agents-py/SKILL.md",
+      "computedHash": "c7c30cbf132eb80743b0b617e774941a866d6641400e7b8be8d266533bbb3f82"
+    },
+    "integrate-arcjet-guard-strands-agents-py": {
+      "source": "arcjet/skills",
+      "sourceType": "github",
+      "skillPath": "integrate-arcjet-guard-strands-agents-py/SKILL.md",
+      "computedHash": "7318e8f4fe05d6ca933fe46f89d8f034262e4a3240ce109cf8b149d76adbbd80"
+    },
+    "prisma-cli": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "skillPath": "prisma-cli/SKILL.md",
+      "computedHash": "f1e28c22e9dd3457eebc05c53a7921f96f8b9fdcf50edb93a0b1de73b78fa2c5"
+    },
+    "prisma-client-api": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "skillPath": "prisma-client-api/SKILL.md",
+      "computedHash": "5dcc0793337151efa73a444e5adbc7e1c24180778e83b4fe94c9109c391bd333"
+    },
+    "prisma-compute": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "skillPath": "prisma-compute/SKILL.md",
+      "computedHash": "e5695a3c6f35428e96df30ae662716bd4c9d9074f72cc9334b3050445a1bd4e2"
+    },
+    "prisma-database-setup": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "skillPath": "prisma-database-setup/SKILL.md",
+      "computedHash": "523066b1fe4b17a97d4f72f6190f8749815029a51a7e4fe190d8f74af1a8e74e"
+    },
+    "prisma-driver-adapter-implementation": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "skillPath": "prisma-driver-adapter-implementation/SKILL.md",
+      "computedHash": "07484627aea6cce4d0f94b4090ff9acc0caa7e104f9988b95abecf80132f4103"
+    },
+    "prisma-mongodb-upgrade": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "skillPath": "prisma-mongodb-upgrade/SKILL.md",
+      "computedHash": "5520dad1206102785bbc63bc3d3762dbf7832b48062c470d55285ae88a85f5eb"
+    },
+    "prisma-orm-setup": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "skillPath": "prisma-orm-setup/SKILL.md",
+      "computedHash": "af5046146c37652728b428b6a3b14d8f33cded97007644840cf9bf20a5194b5a"
+    },
+    "prisma-postgres": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "skillPath": "prisma-postgres/SKILL.md",
+      "computedHash": "8d46220ef3c7aeea1e60f90f4333c272d69ef19081ea438f50d9c0ca4e956395"
+    },
+    "prisma-postgres-setup": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "skillPath": "prisma-postgres-setup/SKILL.md",
+      "computedHash": "890e1b0e61d466ba16e6a663c550a780522ad05437681f1019f74afa58e2d21b"
+    },
+    "prisma-upgrade-v7": {
+      "source": "prisma/skills",
+      "sourceType": "github",
+      "skillPath": "prisma-upgrade-v7/SKILL.md",
+      "computedHash": "d3f7e7862612eaba013c99fc51452a98a0071394f83014dff0d85514137955c1"
+    }
+  }
+}
