@@ -1,5 +1,5 @@
 "use client";
-import { StarsBackground } from '@/components/animate-ui/components/backgrounds/stars';
+import { StarsBackground } from '@/components/animate-ui/backgrounds/stars';
 import { cn } from '@/lib/utils';
 import { useTheme } from 'next-themes';
 
